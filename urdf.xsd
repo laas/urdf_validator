@@ -9,8 +9,8 @@
 
   -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	   targetNamespace="http://www.ros.org"
-	   xmlns="http://www.ros.org"
+	   targetNamespace="http://www.ros.org/wiki/urdf"
+	   xmlns="http://www.ros.org/wiki/urdf"
 	   elementFormDefault="qualified">
 
   <!-- pose node type -->
